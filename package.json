@@ -1,11 +1,11 @@
 {
   "name": "static-web-proxy",
-  "version": "1.0.62",
+  "version": "1.2.0",
   "description": "",
   "main": "index.js",
   "repository": "skunight/static-web-proxy",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "publish:npm": "yarn publish --access public"
   },
   "author": "zzy",
   "license": "MIT",
